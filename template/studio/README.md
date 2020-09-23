@@ -1,9 +1,14 @@
-# Sanity Clean Content Studio
+# A portfolio starting point for Sanity Studio
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This Studio Starter comes with Schemas for projects, blog content, gallery support, collaborators, and more. 
 
-Now you can do the following things:
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+## Running the Studio from the Starter
+
+When you use the 1-click installer, you'll get only what you need for the Studio itself. After you clone it locally, you can run the following commands to get up and running.
+
+```sh
+cd studio
+sanity install
+sanity start
+```
