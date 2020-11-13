@@ -4,7 +4,7 @@
     "description": "A portfolio schema including projects, content, and author information",
     "previewMedia": {
       "type": "image",
-      "src": ".sanity-template/assets/studio-preview.png",
+      "src": ".sanity-template/assets/portfolio.png",
       "alt": "A preview of the project screen in the Studio"
     },
     "technologies": [
