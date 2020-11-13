@@ -1,18 +1,8 @@
-# A portfolio starting point for Sanity Studio
+# Contributing to this Starter
 
-This Studio Starter comes with Schemas for projects, blog content, gallery support, collaborators, and more. 
+If you want to contribute to this Starter, follow the instructions below to get up and running locally. 
 
-
-## Running the Studio from the Starter
-
-When you use the 1-click installer, you'll get only what you need for the Studio itself. After you clone it locally, you can run the following commands to get up and running.
-
-```sh
-cd studio
-sanity install
-sanity start
-```
-
+This starter can also be used as a base for creating a Starter with a frontend using the data.
 
 ## Running the template (for developing the Starter)
 
