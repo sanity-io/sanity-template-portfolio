@@ -30,7 +30,7 @@
                 "dir": "./studio",
                 "previewMedia": {
                     "type": "image",
-                    "src": ".sanity-template/assets/studio-preview.jpg",
+                    "src": ".sanity-template/assets/studio-preview.png",
                     "alt": "A preview image of the Sanity Studio."
                 },
                 "buildSettings": {
